@@ -34,4 +34,4 @@ You can download an example submission file **(sample_submission.csv)** on the D
 
 
 ## Key achivement:
-Attain 0.13931 rmse, with ranking Top 40%
+Attain 0.13877 rmse, with ranking Top 40%
