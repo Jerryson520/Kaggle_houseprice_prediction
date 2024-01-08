@@ -33,6 +33,5 @@ etc.
 You can download an example submission file **(sample_submission.csv)** on the Data page.
 
 
-## Key important change: from rmse 3.5+ down to rmse 1.5+
- 
-In Kaggle, test.csv don't have labels, so train.csv can be split into train-val dataset. So when encoding and scaling, we should fit_transform(train_data), transform(val_data), transform (test_data)
+## Key achivement:
+Attain 0.13931 rmse, with ranking Top 40%
