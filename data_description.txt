@@ -63,7 +63,7 @@ Utilities: Type of utilities available
        NoSewr	Electricity, Gas, and Water (Septic Tank)
        NoSeWa	Electricity and Gas Only
        ELO	Electricity only	
-	
+
 LotConfig: Lot configuration
 
        Inside	Inside lot
