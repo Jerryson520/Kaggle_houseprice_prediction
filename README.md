@@ -1,8 +1,8 @@
-# Kaggle_houseprice_prediction
+# Kaggle Houseprice Prediction
 My codes in Kaggle houseprice prediction competition
 
 
-## Competition description
+## Competition description (https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
 
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
@@ -33,5 +33,14 @@ etc.
 You can download an example submission file **(sample_submission.csv)** on the Data page.
 
 
-## Key achivement:
+## Achivement & Ranking
+Models I used: 
+
+    * Lasso Regression
+    * Ridge Regression
+    * Elastic-net Regression
+    * Decision tree
+    * Random forest
+    * XGBoost regressor
+
 Attain 0.13877 rmse, with ranking Top 40%
