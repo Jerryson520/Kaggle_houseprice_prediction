@@ -37,6 +37,16 @@ You can download an example submission file **(sample_submission.csv)** on the D
 
 
 ## Achivement & Ranking
+• Engineered features and developed machine learning models to predict house prices using the Kaggle dataset comprising 79 attributes of homes in Ames, Iowa
+
+• Preprocessed data employing techniques like normalization and missing value imputation to enhance model accuracy
+
+• Experimented with various regression models, including Ridge regression, XGBoost and Random Forest, optimizing for the lowest Root Mean Square Error (RMSE)
+
+• Utilized cross-validation and grid search for hyperparameter tuning to prevent overfitting and ensure generalization of the model
+
+• Created a comprehensive Jupyter Notebook documentation, illustrating exploratory data analysis, model development, and validation process
+
 Models I used: 
 
     * Lasso Regression
