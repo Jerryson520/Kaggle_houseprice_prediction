@@ -56,4 +56,4 @@ Models I used:
     * Random forest
     * XGBoost regressor
 
-Attain 0.13877 rmse, with ranking Top 40%
+Attain 0.13312 rmse, with ranking Top 30%
